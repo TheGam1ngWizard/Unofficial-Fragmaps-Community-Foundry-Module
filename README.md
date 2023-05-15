@@ -9,6 +9,9 @@ There is NO OFFICIAL SUPPORT provided by FragMaps, if you have an issue with thi
 This module contains Free releases from FragMaps battlemaps, walled and lit by the community, and available for Patron's and Non-Patron's alike. If you want to use the Patron exclusive variants, you need to modify the maps yourself to add them.
 
 
+
+
+
 **Dependancies:**
 This module depends on V11 of FoundryVTT (https://foundryvtt.com/).
 This module doesn't depend on any Foundry Modules.

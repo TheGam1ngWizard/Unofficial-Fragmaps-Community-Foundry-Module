@@ -3,6 +3,7 @@
 ## General Guidance for prepping a map
 - Pull the most recent module update, import module into your world, import all scenes
 - Wall and Light your map
+- **Make sure the map is using a FragMaps-Free battlemap image.**
 - Create a scene compendium (in the world) named 'community-fragmaps-maps'
 - Add all (FragMap) scenes to this compendium (This is important so none of the scene files overlap in filenames)
 - Go into your file manager, delete module 'community-fragmaps-maps' folder, drag your world compendium folder into its place.

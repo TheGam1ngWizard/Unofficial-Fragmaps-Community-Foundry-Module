@@ -1,5 +1,5 @@
 # Unofficial-Fragmaps-Community-Foundry-Module
-This is a UNOFFICIAL Foundry module for [FragMaps](https://www.patreon.com/fragmaps) battlemaps.
+This is a **UNOFFICIAL** Foundry module for [FragMaps](https://www.patreon.com/fragmaps) battlemaps.
 
 ### Disclaimer
 This pack **DOES NOT** include any content created in collaboration between FragMaps and other parties, nor does it include official Foundry content such as the [official Fragmaps-Foundry collab](https://foundryvtt.com/packages/fragmaps-free).

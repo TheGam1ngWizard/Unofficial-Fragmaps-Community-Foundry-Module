@@ -1,6 +1,9 @@
 # Unofficial-Fragmaps-Community-Foundry-Module
 This is a **UNOFFICIAL** Foundry module for [FragMaps](https://www.patreon.com/fragmaps) battlemaps.
 
+If anything goes wrong, any bugs **YOU ARE ON YOUR OWN, OR ON THE SWORD OF THE COMMUNITY'S TIME.**
+### Use at your own risk
+
 ### Disclaimer
 This pack **DOES NOT** include any content created in collaboration between FragMaps and other parties, nor does it include official Foundry content such as the [official Fragmaps-Foundry collab](https://foundryvtt.com/packages/fragmaps-free).
 
@@ -17,6 +20,9 @@ The Patron includes non-watermarked versions, as well as multiple variants for e
 
 ## Compatability
 - This module has not been tested for compatability with any FoundryVTT modules.
+- This module is also **NOT COMPATABLE WITH ANY SUPPORT**, don't go asking FragMaps for help.
+
+### Use at your own risk
 
 ## Credits
 - Maps created by [FragMaps](https://www.patreon.com/fragmaps)

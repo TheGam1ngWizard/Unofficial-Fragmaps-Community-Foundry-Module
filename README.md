@@ -9,6 +9,8 @@ This pack **DOES NOT** include any content created in collaboration between Frag
 
 There is **NO OFFICIAL SUPPORT** provided by FragMaps, if you have an issue with this module - you need to submit it to the issue board: https://github.com/TheGam1ngWizard/Unofficial-Fragmaps-Community-Foundry-Module/issues
 
+### !! Use at your own risk !!
+
 ## Content
 This module contains the Free maps from [FragMaps](https://www.patreon.com/fragmaps) battlemaps, walled and lit by the community. 
 

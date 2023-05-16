@@ -12,8 +12,8 @@
 ### If you have any issues, submit an issue - include a zipped version of your maps for testing.
 
 ## Restrictions
-- Maps **must** only contain the Free variants of maps.
-- This module **may not** include any maps already published in the https://foundryvtt.com/packages/fragmaps-free module (if they do another batch, we will move any maps done into a seperate branch not provided by the main module.)
+- Maps **must** only contain the Free, watermarked variants of maps.
+- This module **may not** include any maps already published in the https://foundryvtt.com/packages/fragmaps-free module (if they do another batch, we will remove any maps done into a seperate branch not provided by the main module.)
 - Collaboration content will **not** be allowed in this module.
 - Push requests **can not** contain any Patron Exclusive content.
 - Push requests **can not** contain any module-specific content.*
